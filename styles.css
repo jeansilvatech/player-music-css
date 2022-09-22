@@ -124,6 +124,10 @@ body{
 }
 .player .play{
     font-size: 40px;
+    display: none;
+}
+.player .pause{
+    font-size: 40px;
     
 }
 .player .voltar,
