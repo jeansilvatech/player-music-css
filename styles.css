@@ -45,7 +45,7 @@ body{
 .container .line{
     margin-top: 20px;
     border-radius: 2px;
-    width: 280px;
+    width: 250px;
     height: 3px;
     background-color: #fff;
     display: flex;
@@ -77,15 +77,9 @@ body{
     0%{
         width: 0px; 
     }
-    25%{
-        width: 93px; 
-    }
-    50%{
-        width: 186px; 
-    }
     100%{
         
-        width: 280px; 
+        width: 250px; 
         
     }
 }
@@ -93,14 +87,8 @@ body{
     0%{
         left: 0px; 
     }
-    25%{
-        left: 93px; 
-    }
-    50%{
-        left: 186px; 
-    }
     100%{
-        left: 280px;  
+        left: 250px;  
     }
 }
 
